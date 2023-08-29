@@ -19,7 +19,7 @@ Check out the file cds_request for more info on the data request.
 Tests with pytest have not been implemented.
 They are replaced for the moment with jupyter sheets
 
-##jupyter scripts
+## jupyter scripts
 launching jupyter with enough memory allocation
 
 ```
