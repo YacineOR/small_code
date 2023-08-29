@@ -5,6 +5,8 @@ A small code/library that reads a NetCDF climate data file, does operations on t
 I used the same conda environmet as the hat project.
 ```
 conda env create -f environment.yml
+conda activate hat
+pip install -e .
 ```
 
 ## The data
